@@ -1,0 +1,4 @@
+1;Inferno;456/785;srpski;496;false
+2;To kill a mockingbird;478/956;engleski;320;false
+3;Flamingo loptica za pse;324/342;Srpski231;214;false
+5;asdads;asddas;Srpski231;213123;false
