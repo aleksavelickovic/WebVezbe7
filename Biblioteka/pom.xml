@@ -14,7 +14,7 @@
 	</parent>
 	
 	<groupId>com.ftn</groupId>
-	<artifactId>Biblioteka</artifactId>
+	<artifactId>BibliotekaV7</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<!-- lookup parent from repository -->
 	<!-- jar je predefinisana vrednost, ako se želi postavit war vrednost
